@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examen1_IcedoHector</string>
+    <string name="title">Calculadora de compatibilidad</string>
+    <string name="textviewname">Tu nombre</string>
+    <string name="textviewname2">El nombre de tu crush</string>
+    <string name="btncalcular">Calcular</string>
+</resources>
